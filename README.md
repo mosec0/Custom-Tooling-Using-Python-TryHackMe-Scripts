@@ -1,2 +1,5 @@
-Now that we have understood the importance of Python for custom tooling, let’s explore how we can develop a brute-forcing tool to bypass authentication. Brute-force attacks involve trying multiple username-password combinations until the correct credentials are found. While these attacks are commonly mitigated by rate limiting and account lockout mechanisms, they still remain an easy-to-do job for hackers.
-Essential Commands
+<h2>Creating your own custom tooling is critically important for web application red teaming, as you rarely find a tool or plugin that will do exactly what you need. This then calls for you to develop custom tooling! In this room, we will showcase different ways you can approach this problem. Each option is unique and has its own benefits and drawbacks.
+
+In this room, we will focus on using code to create tools and exploits. Code is the most versatile option, as it allows you to create brand new software specifically for your needs. Being able to use code also allows you to take existing tools and exploits to customise them to your needs. While we will showcase using Python in this room, the principles can be applied to any coding language of your choice. Let's dive in and use code to create our very own custom tools and exploits!</h2>
+
+<h3>Full Write-Up On Medium : </h3>
