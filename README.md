@@ -1,0 +1,2 @@
+Now that we have understood the importance of Python for custom tooling, let’s explore how we can develop a brute-forcing tool to bypass authentication. Brute-force attacks involve trying multiple username-password combinations until the correct credentials are found. While these attacks are commonly mitigated by rate limiting and account lockout mechanisms, they still remain an easy-to-do job for hackers.
+Essential Commands
